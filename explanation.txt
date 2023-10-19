@@ -1,0 +1,2 @@
+This repository contains the codes for the Psych514 class
+as instructed.
